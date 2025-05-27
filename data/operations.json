@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "حراسة البوابة الرئيسية",
+    "requiredSoldiers": 4,
+    "departureTime": "2023-12-01T06:00:00",
+    "location": "البوابة الرئيسية",
+    "description": "حراسة البوابة الرئيسية للمعسكر",
+    "status": "جارية",
+    "assignedSoldiers": [
+      "2830",
+      "9747",
+      "5553",
+      "1001"
+    ],
+    "soldierArmaments": {
+      "2830": "مسدس"
+    }
+  },
+  {
+    "id": "2",
+    "name": "دورية ليلية",
+    "requiredSoldiers": 6,
+    "departureTime": "2023-12-01T20:00:00",
+    "location": "محيط المعسكر",
+    "description": "دورية ليلية حول محيط المعسكر",
+    "status": "قادمة",
+    "assignedSoldiers": []
+  },
+  {
+    "id": "3",
+    "name": "حراسة مخزن الأسلحة",
+    "requiredSoldiers": 2,
+    "departureTime": "2023-12-01T12:00:00",
+    "location": "مخزن الأسلحة",
+    "description": "حراسة مخزن الأسلحة والذخيرة",
+    "status": "جارية",
+    "assignedSoldiers": [
+      "2830"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "مرافقة قافلة",
+    "requiredSoldiers": 8,
+    "departureTime": "2023-11-28T08:00:00",
+    "location": "الطريق الرئيسي",
+    "description": "مرافقة قافلة إمدادات",
+    "status": "منتهية",
+    "assignedSoldiers": [
+      "1001",
+      "2830",
+      "9747"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "تأمين الاجتماع",
+    "requiredSoldiers": 10,
+    "departureTime": "2023-12-05T09:00:00",
+    "location": "قاعة الاجتماعات",
+    "description": "تأمين اجتماع القيادة",
+    "status": "قادمة",
+    "assignedSoldiers": []
+  }
+]
